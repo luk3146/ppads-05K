@@ -2,4 +2,4 @@
 
 ## Turma 05K
 
-### Nome do estudante: 
+### Nome do estudante: Lucas Pafume Silva
