@@ -22,10 +22,10 @@ Este documento apresenta uma solução de software para o projeto "Gestão da In
 
 ## Definições, abreviações e outros termos do domínio do problema
 
-* Definição 1
-* Definição 2
-* Definição 3
-* etc.
+* Captar novas ideis.
+* inovação para novos projetos
+* Possibilitar o relacionamento com outros meios de comunicação.
+
 
 ## Integração com outros sistemas
 
