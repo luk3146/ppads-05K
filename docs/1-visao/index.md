@@ -17,8 +17,8 @@ Este documento apresenta uma solução de software para o projeto "Gestão da In
 
 * Descrição do problema: O Banco do Brasil está passando por um momento de captar novas ideias para lançar novas campanhas e desafios junto a comunidade de inovação e isso não ocorre hoje.
 * Quem é afetado pelo problema: A Ditec-Banco do brasil.
-* Impacto no negócio: O impacto ocorre novação pormeio de fóruns de discussão, relacionamentos, blogs, wikis e outras atividades colaborativas que hoje 
-* Benefícios de uma boa solução: ___
+* Impacto no negócio: O impacto ocorre pormeio de fóruns de discussão, relacionamentos, blogs, wikis e outras atividades colaborativas que hoje não é possivel fazer.
+* Benefícios de uma boa solução: Possibilitar o acompanhamento da ideia nos seus diversos estágios de maturação e fornecer visões do processo.
 
 ## Definições, abreviações e outros termos do domínio do problema
 
@@ -29,10 +29,10 @@ Este documento apresenta uma solução de software para o projeto "Gestão da In
 
 ## Integração com outros sistemas
 
-* Sistema externo 1
-* Sistema externo 2
-* Sistema externo 3
-* etc.
+* Blogs
+* Wikis
+* Fóruns de discussão
+
  
 ## Interessados
 
@@ -42,9 +42,9 @@ Este documento apresenta uma solução de software para o projeto "Gestão da In
 
 ## Usuários
 
-* Tipo de usuário 1
-* Tipo de usuário 2
-* Tipo de usuário 3
+* Clientes do Banco do Brasil
+* Novos clientes do Banco do Brasil
+* Funcionarios do Banco do Brasil
 * etc.
 
 ## Funcionalidades do produto
